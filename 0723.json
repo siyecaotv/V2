@@ -15,11 +15,11 @@
 "sites":[
 
 //优质影视 “searchable可搜索”：1，“quickSearch快速搜索”：1，“filterable可过滤”：1}，
-{"key":"csp_77","name":"🍀四叶草TV","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"🍀四叶草TV","name":"🍀四叶草导航","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"🍀四叶草TV","name":"🍀四叶草TV","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"相声","name":"🈲视频内的广告勿信🈲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/sub/Blixs.json"},
 {"key":"csp_如意4K","name":"🚀如意4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
+{"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爱迪","name":"💖爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"鸭鸭","name":"🦆鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"csp_AppMr","name":"👻明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
