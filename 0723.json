@@ -8,7 +8,7 @@
 
 // 配置直播地址
 "lives": [
-          {"name":"直播","type":"0","url":"./zhibo.txt", "playerType": 1,"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":""}
+          {"name":"直播","type":"0","url":"./zhibo.txt", "playerType": 1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo":""}
          ],
 
 /*-----------------------配置数据接口源-----------------------*/
