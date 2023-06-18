@@ -18,22 +18,29 @@
 {"key":"🍀四叶草TV","name":"🍀四叶草TV","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"相声","name":"🈲视频内的广告勿信🈲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/sub/Blixs.json"},
 {"key":"csp_如意4K","name":"🚀如意4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
-{"key":"轻简","name":"✂️简简┃蓝光","type":1,"api":"http://1.ahailove.cn:23456/api.php/provide/vod/",
-"playerType":"1","playUrl":"https://play.8c4.cn/play/?url=","categories": ["电影","连续剧","综艺","动漫","综艺"]},
-{"key":"多线","name":"💢多线┃APP","type":3,"api":"csp_DuoX","jar":"./jar/pg.jar"},
+{"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
+{"key":"轻简","name":"简简┃采集","type":1,"api":"http://1.ahailove.cn:23450/api.php/provide/vod","searchable":1, "quickSearch":1,"playUrl":"https://www.kankanju.cc/f/jxplayer.php?v=", "categories": ["电影", "连续剧","综艺","动漫"]},
+{"key":"飞云资源","name":"👒四咔┃资源","type":3,"api":"csp_AppYsV2","playerType":"1","ext":"http://get.lfytyl.com/api.php/app/"},
 {"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
-{"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+{"key":"一龙","name":"🌪️一龙┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
+{"key":"看看剧","name":"🎅看看┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
 {"key":"聚合蓝光","name":"🔒聚合┃蓝光","type":3,"api":"csp_AppYsV2","playerType":"1","ext":"http://xn--yeta099v.online:66/api.php/app/"},
 {"key":"聚合资源","name":"⛵聚合┃资源","type":3,"api":"csp_AppYsV2","ext":"https://tv.ysle.cn/api.php/app/"},
 {"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},
 {"key":"酷影1","name":"😎酷影┃资源","type":3,"api":"csp_AppYsV2","ext":"http://124.222.175.111:89/api.php/app/"}, 
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-{"key":"csp_77","name":"七七（标清）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"七七┃标清","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"奇优","name":"🍄奇优┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/奇优.json"},
+{"key":"策驰","name":"🕊️策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
+{"key":"独播库","name":"🦄独播┃库库","type":3,"api":"csp_XBPQ","ext":"./XBPQ/独播库.json"},
+{"key":"Libo","name":"👶Libo┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/libvio.json"},
+{"key":"2bt","name":"✌BTT┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
+{"key":"饭团","name":"🍙饭团┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/饭团.json"},
 {"key":"鸭鸭","name":"🦆鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"落叶","name":"🍁落叶","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 {"key":"csp_AppMr","name":"👻明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Czsapp","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"厂长","name":"🏭厂长┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/厂长.json"},
 {"key":"csp_Xinsj","name":"🐼新视觉","type":3,"api":"csp_Xinsj","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_Ysgc","name":"🏭影视工厂","type":3,"api":"csp_Ysgc","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
@@ -44,6 +51,7 @@
 {"key": "30","name": "✨ 明帝影视","type": 3,"api": "csp_XBiu","playerType": 1,"searchable": 1,"filterable": 1,"changeable": 1,"ext": "https://ys.md214.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key": "31","name": "✨慢大浪影视 ","type": 3,"api": "csp_XBiu","playerType": 1,"searchable": 1,"filterable": 1,"changeable": 1,"ext": "https://www.mdlys.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"},      
 {"key": "32","name": "✨ TVB云播","type": 3,"api": "csp_XBiu","playerType": 1,"searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://www.tvyb03.com/vod/type/id/{cateId}/page/{catePg}.html"},
+{"key": "22","name": "✨一龙影视","type": 3,"api": "csp_XBiu","playerType": 1,"searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://www.yilonghd.com/type/id-{cateId}-{catePg}.html"},
 {"key":"快看","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/",
 "categories": ["国产剧","港台剧","欧美剧","韩国剧","国产动漫","日本动漫"]},
 
@@ -55,23 +63,21 @@
 
 {"key":"量子","name":"🏂量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/",
 "categories": ["国产剧","港台剧","欧美剧","韩国剧","动漫片"]},
-{"key": "22","name": "✨一龙影视","type": 3,"api": "csp_XBiu","playerType": 1,"searchable": 1,"filterable": 1,"changeable": 1,"ext": "http://www.yilonghd.com/type/id-{cateId}-{catePg}.html"},
 {"key": "外语","name": "🏠外语┃学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/哔哩外语.json"},
 {"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/少儿教育.json"},
 {"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/小学课堂.json"},
 {"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/初中课堂.json"},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://jk.itvbox.cc:66/tvbox/云星日记/sh/Bilibili/高中课堂.json"
 }],
-
 /*-----------------------解析-----------------------*/
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"打死你个大笨蛋","type":1,"url":"http://xhww.fun:63/神秘的哥哥们.php?url=","User-Agent":"okhttp/3.12.0"},
+{"name":"1","type":1,"url":"http://xhww.fun:63/神秘的哥哥们.php?url=","User-Agent":"okhttp/3.12.0"},
 
-{"name":"打死你个大坏蛋","type":0,"url":"https://kankanju.cc/f/jxplayer.php?v="},
+{"name":"2","type":0,"url":"https://kankanju.cc/f/jxplayer.php?v="},
 
-{"name":"小心我叼死你哦","type":0,"url":"https://play.8c4.cn/play/?url="},
+{"name":"3","type":0,"url":"https://play.8c4.cn/play/?url="},
 
 {"name":"解析-","type":1,"url":"http://json.juka.pro/api.php?key=json123&url="},
 
