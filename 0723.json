@@ -61,41 +61,30 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"1","type":1,"url":"http://xhww.fun:63/神秘的哥哥们.php?url=","User-Agent":"okhttp/3.12.0"},
+{"name":"解析聚合1","type":3,"url":"Web"},
 
-{"name":"2","type":0,"url":"https://kankanju.cc/f/jxplayer.php?v="},
+{"name":"解析1","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2373&my=fgimDLMOQTUWYZ0568&url="},
 
-{"name":"3","type":0,"url":"https://play.8c4.cn/play/?url="},
+{"name":"解析2","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
 
-{"name":"解析-","type":1,"url":"http://json.juka.pro/api.php?key=json123&url="},
+{"name":"嗅探1","type":0,"url":"https://api.maoyingshi.cc/jiexi/?uid=10981464&key=aekprvxEGIKMNQYZ03&url="},
 
-{"name":"解析0","type":1,"url":"https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","ext":{"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
+{"name":"嗅探2","type":0,"url":"https://play.8c4.cn/play/?url="},
 
-{"name":"解析1","type":1,"url":"https://vip.xiaomaomi.tv/api.php?key=iknrzBCDIMPQRTY279&url=","ext":{"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
+{"name":"嗅探3","type":0,"url":"https://jx.sc1080.top/?url="},
 
-{"name":"解析2","type":1,"url":"https://vip.daina.hk/fyzy/json.php?url="},
+{"name":"嗅探4","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
-{"name":"解析3","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
+{"name":"嗅探5","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 
-{"name":"解析4","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
+{"name":"嗅探6","type":0,"url":"https://vip.hfyj.ml/player/?url="},
 
-{"name":"解析5","type":1,"url":"http://xiaoxin.1080p.me/home/api?type=ys&uid=2853531&key=bcdfikoqwCGMNOTW06&url="},
+{"name":"嗅探7","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 
-{"name":"嗅探1","type":0,"url":"https://jx.sc1080.top/?url="},
+{"name":"嗅探8","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 
-{"name":"嗅探2","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"嗅探9","type":0,"url":"https://jx.xmflv.com/?url="}
 
-{"name":"嗅探3","type":0,"url":"https://jx.zhanlangbu.com/?url="},
-
-{"name":"嗅探4","type":0,"url":"https://vip.hfyj.ml/player/?url="},
-
-{"name":"嗅探5","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-
-{"name":"嗅探6","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-
-{"name":"嗅探7","type":0,"url":"https://jx.xmflv.com/?url="},
-
-{"name":"嗅探8","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
 
 ],
 
